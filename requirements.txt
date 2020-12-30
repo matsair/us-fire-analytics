@@ -1,0 +1,2 @@
+pandas-redshift==2.0.4
+jupyterlab==2.2.8
